@@ -28,4 +28,4 @@
 
 ### 📫 Contact  
 📩 Feel free to reach out:  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-purple)](mailto:dylan-contact-me@pm.me)
+[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20message-red?logo=gmail)](mailto:dylan-contact-me@pm.me)
