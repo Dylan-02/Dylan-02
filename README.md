@@ -7,7 +7,7 @@
 
 ### 🔧 Technologies & Tools  
 - **Languages:** Java, JavaScript, C, Bash, SQL  
-- **Tools:** Docker, Linux, Git  
+- **Tools:** Docker, Linux, Git, PostgreSQL  
 - **Frameworks:** Angular, Vue.js (Currently Learning)  
 
 ---
