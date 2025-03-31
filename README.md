@@ -21,8 +21,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylan-02&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-02&layout=compact&theme=tokyonight)  
 
 ---
 
